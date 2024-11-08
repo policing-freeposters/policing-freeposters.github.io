@@ -46,19 +46,19 @@ layout: home
 
 <div class="row">
   <div class="column">
-    <img src="/images/IMG1.JPG" style="width:100%">
-    <img src="/images/IMG2.JPG" style="width:100%">
-    <img src="/images/IMG3.JPG" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/IMG4.JPG" style="width:100%">
-    <img src="/images/IMG5.JPG" style="width:100%">
-    <img src="/images/IMG6.JPG" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/IMG7.JPG" style="width:100%">
-    <img src="/images/IMG8.JPG" style="width:100%">
-    <img src="/images/IMG9.JPG" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/img1.jpeg" style="width:100%">
   </div>
 </div>
 
