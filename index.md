@@ -8,4 +8,59 @@
 layout: home
 ---
 
-TEST
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+  
+.column img {
+  margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/IMG1.JPG" style="width:100%">
+    <img src="/images/IMG2.JPG" style="width:100%">
+    <img src="/images/IMG3.JPG" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/IMG4.JPG" style="width:100%">
+    <img src="/images/IMG5.JPG" style="width:100%">
+    <img src="/images/IMG6.JPG" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/IMG7.JPG" style="width:100%">
+    <img src="/images/IMG8.JPG" style="width:100%">
+    <img src="/images/IMG9.JPG" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
