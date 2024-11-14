@@ -46,19 +46,12 @@ layout: home
 
 <div class="row">
   <div class="column">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/space.png" style="width:100%">
+    <img src="/images/building.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
-    <img src="/images/img1.jpeg" style="width:100%">
+    <img src="/images/floor.png" style="width:100%">
+    <img src="/images/school.png" style="width:100%">
   </div>
 </div>
 
