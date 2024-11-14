@@ -67,6 +67,8 @@ layout: home
   </div>
 </div>
 
+<br>
+
 Submit original policing-free poster art. Use the heading above on your poster. <br>
 
 <a href="policing-freeposters@proton.me">policing-freeposters@proton.me</a> <br>
