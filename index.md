@@ -46,15 +46,23 @@ layout: home
 
 <div class="row">
   <div class="column">
-    <img src="/images/Space.png" style="width:100%">
+    <a href="/spaces/">
+      <img src="/images/Space.png" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="/images/Building.png" style="width:100%">
+    <a href="/buildings/">
+      <img src="/images/Building.png" style="width:100%">
+    </a>
   <div class="column">
-    <img src="/images/Floor.png" style="width:100%">
+    <a href="/floors/">
+      <img src="/images/Floor.png" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="/images/School.png" style="width:100%">
+    <a href="/schools/">
+      <img src="/images/School.png" style="width:100%">
+    </a>
   </div>
 </div>
 
