@@ -46,12 +46,12 @@ layout: home
 
 <div class="row">
   <div class="column">
-    <img src="/images/space.png" style="width:100%">
-    <img src="/images/building.png" style="width:100%">
+    <img src="/images/Space.png" style="width:100%">
+    <img src="/images/Building.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/floor.png" style="width:100%">
-    <img src="/images/school.png" style="width:100%">
+    <img src="/images/Floor.png" style="width:100%">
+    <img src="/images/School.png" style="width:100%">
   </div>
 </div>
 
