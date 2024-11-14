@@ -16,10 +16,10 @@ layout: home
   box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 25.00%;
   padding: 10px;
 }
   
@@ -47,10 +47,13 @@ layout: home
 <div class="row">
   <div class="column">
     <img src="/images/Space.png" style="width:100%">
-    <img src="/images/Building.png" style="width:100%">
   </div>
   <div class="column">
+    <img src="/images/Building.png" style="width:100%">
+  <div class="column">
     <img src="/images/Floor.png" style="width:100%">
+  </div>
+  <div class="column">
     <img src="/images/School.png" style="width:100%">
   </div>
 </div>
