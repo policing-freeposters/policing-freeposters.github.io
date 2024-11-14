@@ -67,5 +67,11 @@ layout: home
   </div>
 </div>
 
+Submit original policing-free poster art. Use the heading above on your poster. 
+
+<a href="policing-freeposters@proton.me">policing-freeposters@proton.me</a>
+
+All posters are not to be used for finanical profit or personal gain.
+
 </body>
 </html>
