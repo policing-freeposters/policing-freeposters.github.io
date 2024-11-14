@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policing-Free Spaces
+title: Policing-Free Space
 permalink: /spaces/
 ---
 
