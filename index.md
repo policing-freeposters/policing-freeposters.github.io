@@ -54,6 +54,7 @@ layout: home
     <a href="/buildings/">
       <img src="/images/Building.png" style="width:100%">
     </a>
+  </div>
   <div class="column">
     <a href="/floors/">
       <img src="/images/Floor.png" style="width:100%">
