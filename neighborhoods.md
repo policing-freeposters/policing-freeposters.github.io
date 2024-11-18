@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policing-Free Space
-permalink: /Neighborhood/
+permalink: /neighborhoods/
 ---
 
 <br>
