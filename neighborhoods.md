@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policing-Free Space
+title: Policing-Free Neighborhood
 permalink: /neighborhoods/
 ---
 
