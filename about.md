@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Make our spaces policing free is a place where creatives, dreamers, and revolutionaries can share poster art with others to facilitate policing-free spaces. 
+*Make our spaces policing-free* is a place where creatives, dreamers, and revolutionaries can share poster art with others to facilitate policing-free spaces. 
 
 Anyone can submit poster art or download poster art to place in their spaces, apartment buildings, homes, workplaces, schools, neighbourhoods, and so forth.
 
