@@ -67,7 +67,7 @@ layout: home
   </div>
   <div class="column">
     <a href="/neighborhoods/">
-      <img src="/images/C-Neighborhood.png" style="width:100%">
+      <img src="/images/C-Neighbourhood.png" style="width:100%">
     </a>
   </div>
 </div>
