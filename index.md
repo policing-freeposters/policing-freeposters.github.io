@@ -47,27 +47,27 @@ layout: home
 <div class="row">
   <div class="column">
     <a href="/spaces/">
-      <img src="/images/Space.png" style="width:100%">
+      <img src="/images/C-Space.png" style="width:100%">
     </a>
   </div>
   <div class="column">
     <a href="/floors/">
-      <img src="/images/Floor.png" style="width:100%">
+      <img src="/images/C-Floor.png" style="width:100%">
     </a>
   </div>
   <div class="column">
     <a href="/buildings/">
-      <img src="/images/Building.png" style="width:100%">
+      <img src="/images/C-Building.png" style="width:100%">
     </a>
   </div>
   <div class="column">
     <a href="/schools/">
-      <img src="/images/School.png" style="width:100%">
+      <img src="/images/C-School.png" style="width:100%">
     </a>
   </div>
   <div class="column">
     <a href="/neighborhoods/">
-      <img src="/images/Neighborhood.png" style="width:100%">
+      <img src="/images/C-Neighborhood.png" style="width:100%">
     </a>
   </div>
 </div>
