@@ -53,6 +53,8 @@ layout: home
       <img src="/images/C-Home.png">
     </a>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <a href="/floor/">
       <img src="/images/C-Floor.png">
@@ -63,6 +65,8 @@ layout: home
       <img src="/images/C-Building.png">
     </a>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <a href="/schools/">
       <img src="/images/C-School.png">
@@ -73,6 +77,8 @@ layout: home
       <img src="/images/C-Neighbourhood.png">
     </a>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <a href="/city/">
       <img src="/images/C-City.png">
