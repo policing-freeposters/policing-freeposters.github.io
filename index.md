@@ -56,6 +56,11 @@ layout: home
     </a>
   </div>
   <div class="column">
+    <a href="/home/">
+      <img src="/images/C-Home.png" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
     <a href="/buildings/">
       <img src="/images/C-Building.png" style="width:100%">
     </a>
@@ -68,6 +73,16 @@ layout: home
   <div class="column">
     <a href="/neighborhoods/">
       <img src="/images/C-Neighbourhood.png" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/city/">
+      <img src="/images/C-City.png" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/world/">
+      <img src="/images/C-World.png" style="width:100%">
     </a>
   </div>
 </div>
