@@ -19,7 +19,7 @@ layout: home
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50.00%;
+  width: 25.00%;
   padding: 10px;
 }
   
@@ -65,6 +65,8 @@ layout: home
       <img src="/images/C-Building.png" style="width:100%">
     </a>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <a href="/schools/">
       <img src="/images/C-School.png" style="width:100%">
