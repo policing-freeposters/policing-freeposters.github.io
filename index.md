@@ -16,28 +16,26 @@ layout: home
   box-sizing: border-box;
 }
 
-/* Create four equal columns that floats next to each other */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+
 .column {
-  float: left;
-  width: 50.00%;
+  flex: 1 1 50%; /* grow, shrink, base width */
   padding: 10px;
 }
-  
+
 .column img {
+  width: 100%;
   margin-top: 12px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
+/* Optional: force exact layout for wider screens */
+@media screen and (min-width: 768px) {
   .column {
-    width: 100%;
+    flex: 1 1 25%;
   }
 }
 </style>
@@ -47,44 +45,42 @@ layout: home
 <div class="row">
   <div class="column">
     <a href="/spaces/">
-      <img src="/images/C-Space.png" style="width:100%">
-    </a>
-  </div>
-  <div class="column">
-    <a href="/floors/">
-      <img src="/images/C-Floor.png" style="width:100%">
+      <img src="/images/C-Space.png">
     </a>
   </div>
   <div class="column">
     <a href="/home/">
-      <img src="/images/C-Home.png" style="width:100%">
+      <img src="/images/C-Home.png">
+    </a>
+  </div>
+  <div class="column">
+    <a href="/floor/">
+      <img src="/images/C-Floor.png">
     </a>
   </div>
   <div class="column">
     <a href="/buildings/">
-      <img src="/images/C-Building.png" style="width:100%">
+      <img src="/images/C-Building.png">
     </a>
   </div>
-</div>
-<div class="row">
   <div class="column">
     <a href="/schools/">
-      <img src="/images/C-School.png" style="width:100%">
+      <img src="/images/C-School.png">
     </a>
   </div>
   <div class="column">
     <a href="/neighborhoods/">
-      <img src="/images/C-Neighbourhood.png" style="width:100%">
+      <img src="/images/C-Neighbourhood.png">
     </a>
   </div>
   <div class="column">
     <a href="/city/">
-      <img src="/images/C-City.png" style="width:100%">
+      <img src="/images/C-City.png">
     </a>
   </div>
   <div class="column">
     <a href="/world/">
-      <img src="/images/C-World.png" style="width:100%">
+      <img src="/images/C-World.png">
     </a>
   </div>
 </div>
